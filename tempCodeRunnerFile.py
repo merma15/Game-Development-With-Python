@@ -1,0 +1,1 @@
+for bullet in self.bullets.sprites():
